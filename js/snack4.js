@@ -15,10 +15,10 @@ function randomNomiCognomi(nom, cog) {
 }
 
 // 3. creo la lista dei nomi
-var nomi = ["Alberto", "Gina", "Giuseppe", "Sabrina", "Paola", "Mattia"];
+var nomi = ["Alberto", "Gina", "Giuseppe", "Sabrina", "Paola", "Mattia", "Pippo", "Tarquinio", "Mefistofele", "Carlo", "Settimio", "Bruno", "Lillo", "Teresa", "Paola", "Francesca"];
 
 // 4. creo la lista dei cognomi
-var cognomi = ["Bianchi", "Rossi", "Neri", "Verdi", "Laureti", "Rossetti"];
+var cognomi = ["Bianchi", "Rossi", "Neri", "Verdi", "Laureti", "Rossetti", "Bezos", "Gaglianoni", "Pizzoccheri", "Rincalzi", "Proteina", "Attributi"];
 
 // 5. creo la lista degli invitati da stampare in pagina con un ciclo for
 for (i = 0; i < 10; i++) {
